@@ -1,4 +1,4 @@
-//Title
+//My Character
 
 void setup(){
 size(1080, 720);
